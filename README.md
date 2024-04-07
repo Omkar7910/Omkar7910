@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omkar2458
+- 👋 Hi, I’m @Omkar7910
 - 👀 I’m interested in learning new programming concepts and like to have fun playing around them.
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
