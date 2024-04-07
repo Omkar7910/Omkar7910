@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Omkar7910
+- 👋 Hi, I’m @Omkar2458
 - 👀 I’m interested in learning new programming concepts and like to have fun playing around them.
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Omkar7910/Omkar7910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Omkar2458/Omkar2458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
