@@ -42,7 +42,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my spare time, I enjoy tackling problems on codewars and learning about new technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](omkar-patil-75793022a)
+- :mailbox:How to reach me: <link> www.linkedin.com/in/omkar-patil-75793022a</link>.
+
 
 <!-- / -->
 
