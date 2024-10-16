@@ -36,9 +36,9 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: "I thrive on contributing to both frontend and backend development to create robust web applications."
+- :telescope: I thrive on contributing to both frontend and backend development to create robust web applications.
 
-- :seedling:"I love creating amazing UI websites.".
+- :seedling: I love creating amazing UI websites.
 
 - :zap: In my spare time, I enjoy tackling problems on codewars and learning about new technologies.
 
